@@ -1,0 +1,8 @@
+﻿Product_ID,Max kW,Type_ID
+P01,7 kW,AC
+P02,22 kW,AC
+P03,25 kW,DC
+P04,40 kW,DC
+P05,60 kW,DC
+P06,100 kW,DC
+P07,120 kW,DC
